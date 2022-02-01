@@ -3,12 +3,11 @@ export default function Home() {
   return (
     <>
       <Head>
-      <title>Início | Ig.news</title>
+      <title>Home | Ig.news</title>
       </Head>
-    <h1>
-    
-    
-      teste</h1>
+    <main>
+      <section></section>
+    </main>
     </>
   )
 }
